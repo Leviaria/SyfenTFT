@@ -20,3 +20,17 @@ To ensure every function operates independently and can be adjusted easily, the 
 ### 🌟 Tip for Contributors
 
 As the project evolves, **taking a look at the [Wiki](https://github.com/Leviaria/SyfenTFT/wiki)** could be incredibly helpful. The Wiki will contain detailed guides, best practices, and up-to-date information to assist you in understanding and contributing to the development process more effectively.
+
+---
+
+### 📷 Little Dev-Log
+
+#### ADB Get Gold
+<a href="https://raw.githubusercontent.com/Leviaria/SyfenTFT/refs/heads/main/debug-tools/adb_get_gold_example.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Leviaria/SyfenTFT/refs/heads/main/debug-tools/adb_get_gold_example.png" alt="adb_get_gold_example" width="800">
+</a>
+
+#### ADB Screen Coordinates
+<a href="https://raw.githubusercontent.com/Leviaria/SyfenTFT/refs/heads/main/debug-tools/adb_screencoords_example.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Leviaria/SyfenTFT/refs/heads/main/debug-tools/adb_screencoords_example.png" alt="adb_screencoords_example" width="800">
+</a>
