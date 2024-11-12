@@ -1,4 +1,4 @@
-# **🐉 SyfenTFT**
+# **🐉 SyfenTFT - Teamfight Tactics Mobile OCR Bot**
 
 [![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-orange)](https://github.com/Leviaria/SyfenTFT)
 [![GitHub contributors](https://img.shields.io/github/contributors/Leviaria/SyfenTFT)](https://github.com/Leviaria/SyfenTFT/graphs/contributors)
