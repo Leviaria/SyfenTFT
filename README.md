@@ -7,6 +7,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Leviaria/SyfenTFT)](https://github.com/Leviaria/SyfenTFT/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/Leviaria/SyfenTFT)](https://github.com/Leviaria/SyfenTFT/issues)
 [![GitHub stars](https://img.shields.io/github/stars/Leviaria/SyfenTFT)](https://github.com/Leviaria/SyfenTFT/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Leviaria/SyfenTFT)](https://github.com/Leviaria/SyfenTFT/blob/main/LICENSE)
 
 </div>
 
