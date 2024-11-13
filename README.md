@@ -30,7 +30,7 @@ As the project evolves, **taking a look at the [Wiki](https://github.com/Leviari
 
 ---
 
-### 📷 Little Dev-Log
+### 📷 Development Log
 
 #### ADB Get Gold
 <a href="https://raw.githubusercontent.com/Leviaria/SyfenTFT/refs/heads/main/debug-tools/adb_get_gold_example.png" target="_blank">
@@ -41,3 +41,11 @@ As the project evolves, **taking a look at the [Wiki](https://github.com/Leviari
 <a href="https://raw.githubusercontent.com/Leviaria/SyfenTFT/refs/heads/main/debug-tools/adb_screencoords_example.png" target="_blank">
     <img src="https://raw.githubusercontent.com/Leviaria/SyfenTFT/refs/heads/main/debug-tools/adb_screencoords_example.png" alt="adb_screencoords_example" width="800">
 </a>
+
+---
+
+### 💡 Disclaimer
+
+This bot is for **educational purposes only** and is not affiliated with or endorsed by Riot Games or Teamfight Tactics. Use at your own risk.
+
+---
